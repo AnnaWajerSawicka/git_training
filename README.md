@@ -6,3 +6,8 @@ Instrukcja do mojego projektu:
 - uruchomic projekt w atom/pycharm
 
 Zobaczyc moj kod w Python:
+```Python
+function test() { 
+console.log("look ma’, no spaces");
+}
+```
